@@ -1,0 +1,16 @@
+.SFO{
+  background-image:url("https://media.istockphoto.com/id/1348089637/photo/san-francisco-skyline.jpg?s=612x612&w=0&k=20&c=WsolfyTvYhqdAYwVA5X2tdJmEzTgAzBBzv-f9EgskD8=");
+  height:100vh;
+  background-repeat:no-repeat;
+  background-size:cover;
+  color:white;
+
+}
+.headingSFO{
+  text-align:center;
+  font-size:55px;
+}
+.infoSFO{
+  text-align:center;
+  font-size:25px;
+}

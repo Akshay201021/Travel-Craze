@@ -1,0 +1,23 @@
+.dallas{
+  background-image:url("https://assets.dmagstatic.com/wp-content/uploads/2016/03/PupleSkyline_MNS2616.jpg");
+  height:100vh;
+  background-repeat:no-repeat;
+  background-size:cover;
+  color:white;
+
+}
+.heading{
+  text-align:center;
+  font-size:55px;
+}
+.info{
+  text-align:center;
+  font-size:25px;
+}
+.twoimg{
+  width:38.5rem;
+  height:25rem;
+}
+.card{
+  height:41rem;
+}

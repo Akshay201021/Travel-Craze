@@ -1,0 +1,26 @@
+li{
+  display:inline;
+  padding:130px;
+}
+.navbar{
+  text-decoration:none;
+  color:white;
+  font-size:35px;
+
+
+}
+ul{
+  background-color:blue;
+  height:50px;
+  width:98%;
+}
+*{
+  margin:0px;
+  font-family:cursive;
+}
+.button{
+  background-color:black;
+  color:white;
+  font-size:30px;
+  margin-left:675px;
+}

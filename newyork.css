@@ -1,0 +1,16 @@
+.newyork{
+  background-image:url("https://t3.ftcdn.net/jpg/00/57/87/94/360_F_57879471_K5dA6fTP7ECWz0vsxsoQoUbsxb1GBkKL.jpg");
+  height:100vh;
+  background-repeat:no-repeat;
+  background-size:cover;
+  color:white;
+
+}
+.headingNYC{
+  text-align:center;
+  font-size:55px;
+}
+.infoNYC{
+  text-align:center;
+  font-size:25px;
+}

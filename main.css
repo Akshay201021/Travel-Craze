@@ -1,0 +1,21 @@
+.hotel{
+ background-image:url("https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?cs=srgb&dl=pexels-pixabay-258154.jpg&fm=jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:100vh;
+}
+.head{
+  padding-top:300px;
+  text-align:center;
+
+}
+.homepara{
+  font-size:35px;
+  color:white;
+
+}
+.home{
+  font-size:45px;
+  color:white;
+}
+
